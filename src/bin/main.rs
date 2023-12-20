@@ -11,7 +11,7 @@ fn main() {
     let args: Vec<String> = env::args().skip(1).collect();
 
     if args.len() != 1 {
-        eprintln!("error: the number of argument must be 0 or 1");
+        eprintln!("error: the number of argument must be 1");
         exit(1);
     }
 
