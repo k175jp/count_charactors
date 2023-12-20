@@ -1,13 +1,13 @@
 # count_charactors
 
-```test.txt
+test.txt
+```
 ["Title1"]
 "abcdefghijklmnopqrstuvwxyz"
 
 ["Title2"]
 "12345
 67890"
-
 
 ["Title3"]
 ""
